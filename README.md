@@ -63,6 +63,7 @@ Análise descritiva
 - Script: analise_script.ipynb
 
 Análise preditiva
+- Base de dados: dataset_cancelamentos.csv
 - Base de dados: novos_clientes.csv
 - Script: analise_script.ipynb
 
